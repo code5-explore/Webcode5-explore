@@ -1,1 +1,1 @@
-This is an experimental client side school register created using Brython and html# Webcode5-explore
+This is an experimental client side school register created using Brython and html# Webcode5-explore. Check code
